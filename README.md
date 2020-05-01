@@ -5,9 +5,11 @@
 
 
  python manage.py migrate
+
+ 
  python manage.py makemigrations
 
  Executar aplicação
 
- 
+
  python manage.py runserver
