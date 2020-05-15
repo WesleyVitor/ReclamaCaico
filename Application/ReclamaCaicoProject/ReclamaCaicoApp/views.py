@@ -9,7 +9,7 @@ from django.http import HttpResponse
 from django.contrib.auth.models import User
 from django.db.models import Q
 from datetime import date
-
+#adicionando algo
 
 # Create your views here.
 
